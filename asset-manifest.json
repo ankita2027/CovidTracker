@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CovidTracker/static/css/main.6a001a5e.css",
+    "main.js": "/CovidTracker/static/js/main.e95d1b60.js",
+    "static/js/787.f63e59e4.chunk.js": "/CovidTracker/static/js/787.f63e59e4.chunk.js",
+    "static/media/background2.png": "/CovidTracker/static/media/background2.c09f715ecbda42f16e21.png",
+    "static/media/card1img.png": "/CovidTracker/static/media/card1img.8e75f97ce9ab5ec1cd5a.png",
+    "static/media/icon1.png": "/CovidTracker/static/media/icon1.f36bf4c46d6b76b52f12.png",
+    "static/media/card3img.png": "/CovidTracker/static/media/card3img.75dda523fda4109f8cbc.png",
+    "static/media/card2img.png": "/CovidTracker/static/media/card2img.cc0c2f0a62d6964e5000.png",
+    "static/media/logo.svg": "/CovidTracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CovidTracker/index.html",
+    "main.6a001a5e.css.map": "/CovidTracker/static/css/main.6a001a5e.css.map",
+    "main.e95d1b60.js.map": "/CovidTracker/static/js/main.e95d1b60.js.map",
+    "787.f63e59e4.chunk.js.map": "/CovidTracker/static/js/787.f63e59e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a001a5e.css",
+    "static/js/main.e95d1b60.js"
+  ]
+}
